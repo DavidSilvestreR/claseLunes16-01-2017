@@ -1,0 +1,4 @@
+img{
+  max-width: 100%; /* NOTE: poner max a las imagenes */
+  height: auto;
+}
