@@ -8,6 +8,11 @@ img{
   background-image:
   url("../imagenes/segunda.jpg");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% 100%; /* NOTE: el defines el ancho de que ocupara el background de la imagen */
 
+}
+.gradiente{
+  width: 700px;
+  height: 700px;
+  background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 95%); /* NOTE: poner un gradiente lineal o circular el cual incluye trasparencias */
 }
