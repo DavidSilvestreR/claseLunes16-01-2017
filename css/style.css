@@ -12,6 +12,7 @@ img{
 
 }
 .gradiente{
+  margin: auto;
   width: 700px;
   height: 700px;
   background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 95%); /* NOTE: poner un gradiente lineal o circular el cual incluye trasparencias */
